@@ -37,7 +37,7 @@ Restaurants receive repetitive calls about menus, prices, orders, reservations, 
 
 ## Project Demo
 
-**Demo video:** [Add your video link here.](https://lnkd.in/p/eG2fmgvE)
+**Demo video:** (https://lnkd.in/p/eG2fmgvE)
 
 ## Business Value
 
