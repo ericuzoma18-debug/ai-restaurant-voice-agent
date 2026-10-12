@@ -33,12 +33,21 @@ Restaurants receive repetitive calls about menus, prices, orders, reservations, 
 - **Google Sheets** — Order data storage
 
 ## Project Screenshots
+### Vapi Agent Configuration
+![Vapi Agent Configuration](vapi-agent-configuration.png)
 
+### Vapi API Tool
+![Vapi API Tool](vapi-api-tool.png)
+
+### n8n Workflow
+![n8n Workflow](n8n-workflow.png)
+
+### Google Sheets Order Records
+![Google Sheets Order Records](google-sheets-orders.png)
 
 ## Project Demo
 
-**Demo video:** (https://lnkd.in/p/eG2fmgvE)
-
+🎥 **[Watch the Full Demo on LinkedIn](https://lnkd.in/p/eG2fmgvE)**
 ## Business Value
 
 This project demonstrates how voice AI and workflow automation can help restaurants manage repetitive customer enquiries and reduce manual order-recording work.
